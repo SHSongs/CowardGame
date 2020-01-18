@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\SONGSANGHYUK\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\SONGSANGHYUK\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_assassin.-1111924208.00" t="ExcludeRecursive" />
+    <e p="C:\Users\SONGSANGHYUK\assassin" t="IncludeRecursive">
+      <e p="assassin.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Joystick" t="Include">
+          <e p="JoystickScript.cs" t="Include" />
+        </e>
+        <e p="NavMeshComponents" t="Include">
+          <e p="Editor" t="Include">
+            <e p="NavMeshAssetManager.cs" t="Include" />
+            <e p="NavMeshAssetManager2d.cs" t="Include" />
+            <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+            <e p="NavMeshLinkEditor.cs" t="Include" />
+            <e p="NavMeshModifierEditor.cs" t="Include" />
+            <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+            <e p="NavMeshSurfaceEditor.cs" t="Include" />
+            <e p="NavMeshSurfaceEditor2d.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="NavMeshBuilder2d.cs" t="Include" />
+            <e p="NavMeshLink.cs" t="Include" />
+            <e p="NavMeshModifier.cs" t="Include" />
+            <e p="NavMeshModifierVolume.cs" t="Include" />
+            <e p="NavMeshSurface.cs" t="Include" />
+            <e p="NavMeshSurface2d.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Script" t="Include">
+          <e p="Enemy" t="Include">
+            <e p="EnemyMove.cs" t="Include" />
+            <e p="RayCast.cs" t="Include" />
+            <e p="Target.cs" t="Include" />
+          </e>
+          <e p="player" t="Include">
+            <e p="BoomEnemy.cs" t="Include" />
+            <e p="FollowCam.cs" t="Include" />
+            <e p="Hp.cs" t="Include" />
+            <e p="Move.cs" t="Include" />
+          </e>
+          <e p="Scene" t="Include">
+            <e p="ArrivePlayer.cs" t="Include" />
+            <e p="StartGame.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Hpbar.cs" t="Include" />
+            <e p="joy.cs" t="Include" />
+            <e p="line.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TestScene" t="Include">
+          <e p="PlayerScript.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
