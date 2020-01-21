@@ -1,0 +1,3 @@
+# CowardGame
+
+avoid enemy!
